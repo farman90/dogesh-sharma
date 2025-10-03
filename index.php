@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>How to Defeat Every Boss in Shadow Fight 2 — Complete Guide</title>
-      <meta name="google-site-verification" content="Xapv4EyS4-vP2xcoZ-XMNbbyqcfjs6v8H5D7v0mwWUo" />
+  <meta name="google-site-verification" content="UWo00ddUfb5NRDhf3maUaOrZgyP3UFDyIRwVeMAJTXU" />
   <meta name="description" content="Detailed, step-by-step strategies to defeat every major boss in Shadow Fight 2 (Lynx, Hermit, Butcher, Wasp, Widow, Shogun, Titan). Tips, weapon recommendations, combos, and stage tactics." />
   <meta name="keywords" content="Shadow Fight 2, SF2 boss guide, Lynx, Hermit, Butcher, Wasp, Widow, Shogun, Titan, mobile game guide, boss strategies" />
   <meta property="og:title" content="How to Defeat Every Boss in Shadow Fight 2 — Complete Guide" />
